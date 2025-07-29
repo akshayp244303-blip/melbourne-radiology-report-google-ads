@@ -7,7 +7,7 @@ const MelbourneRadiologyAudit = () => {
 
   // Campaign performance data
   const campaignData = [
-    { name: 'Search-Brand', spend: 1,484.46, conversions: 47, ctr: 18.56, cpc: 1.25, convRate: 3.95, roas: 0.09 },
+    { name: 'Search-Brand', spend: 1535.36, conversions: 47, ctr: 18.61, cpc: 1.26, convRate: 3.84, roas: 0.09 },
     { name: 'Search-MRI', spend: 1072.46, conversions: 47, ctr: 6.17, cpc: 2.67, convRate: 11.72, roas: 0.13 },
     { name: 'Search-CTScan', spend: 563.88, conversions: 18, ctr: 5.95, cpc: 4.21, convRate: 13.43, roas: 0.10 },
     { name: 'Search-X-Ray', spend: 588.48, conversions: 1, ctr: 8.99, cpc: 1.51, convRate: 0.26, roas: 0.01 },
@@ -18,7 +18,7 @@ const MelbourneRadiologyAudit = () => {
   ];
 
   // Key metrics summary
-  const totalSpend = 5441.82;
+  const totalSpend = 5558.84;
   const totalConversions = 128;
   const avgCPC = 2.01;
   const avgConvRate = 2.45;
